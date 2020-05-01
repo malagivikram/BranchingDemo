@@ -10,6 +10,11 @@ public class SeleniumTest {
 	}
 	
 	@Test
+	public void browserAuto1() {
+		System.out.println("browserAuto1 pulled and modified");
+	}
+	
+	@Test
 	public void elementsUI() {
 		System.out.println("elementsUI");
 	}
