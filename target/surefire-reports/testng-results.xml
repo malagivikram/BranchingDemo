@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-26T14:49:26 IST" name="Command line suite" finished-at="2020-04-26T14:49:26 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2020-04-26T14:49:26 IST" name="Command line test" finished-at="2020-04-26T14:49:26 IST" duration-ms="66">
+      <class name="malagiacademy.RESTAPITest">
+        <test-method signature="postBugzilla()[pri:0, instance:malagiacademy.RESTAPITest@7a36aefa]" started-at="2020-04-26T14:49:26 IST" name="postBugzilla" finished-at="2020-04-26T14:49:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postBugzilla -->
+        <test-method signature="deletefb()[pri:0, instance:malagiacademy.RESTAPITest@7a36aefa]" started-at="2020-04-26T14:49:26 IST" name="deletefb" finished-at="2020-04-26T14:49:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletefb -->
+      </class> <!-- malagiacademy.RESTAPITest -->
+      <class name="malagiacademy.AppiumTest">
+        <test-method signature="androidApps()[pri:0, instance:malagiacademy.AppiumTest@5d11346a]" started-at="2020-04-26T14:49:26 IST" name="androidApps" finished-at="2020-04-26T14:49:26 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidApps -->
+        <test-method signature="iosApps()[pri:0, instance:malagiacademy.AppiumTest@5d11346a]" started-at="2020-04-26T14:49:26 IST" name="iosApps" finished-at="2020-04-26T14:49:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApps -->
+      </class> <!-- malagiacademy.AppiumTest -->
+      <class name="malagiacademy.SeleniumTest">
+        <test-method signature="elementsUI()[pri:0, instance:malagiacademy.SeleniumTest@17211155]" started-at="2020-04-26T14:49:26 IST" name="elementsUI" finished-at="2020-04-26T14:49:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+        <test-method signature="browserAuto()[pri:0, instance:malagiacademy.SeleniumTest@17211155]" started-at="2020-04-26T14:49:26 IST" name="browserAuto" finished-at="2020-04-26T14:49:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAuto -->
+      </class> <!-- malagiacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
